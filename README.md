@@ -66,3 +66,22 @@ All projects were developed and executed in Google Colab.
    ```python
    from google.colab import files
    files.upload()
+   Update the CSV filename as needed
+5. Run all cells
+
+## 🛠 Requirements
+
+Python 3
+Pandas
+NumPy
+Matplotlib / Seaborn
+Scikit-Learn
+NLTK (for NLP project)
+
+All dependencies are already pre-installed in Google Colab.
+
+## 📌 Notes
+
+Datasets are not included in the repository due to GitHub file size limitations.
+Please download datasets from the Kaggle links above before running each notebook.
+
